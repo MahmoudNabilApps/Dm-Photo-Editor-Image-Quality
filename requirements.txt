@@ -1,7 +1,7 @@
 flask
 torch
 torchvision
-basicsr
+git+https://github.com/xinntao/BasicSR.git
 facexlib
 gfpgan
 realesrgan
